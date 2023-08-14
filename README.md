@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding using HTML, CSS and Python
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to work on projects mainly front end development. I Love to design webpages. Style them and code them.
-- 📫 How to reach me- email: rohithrjnr43@gmail.com instagram: @_.so_u_l_ Linkedin: www.linkedin.com/in/rohith-raj-nambiar
+- 📫 How to reach me- email: rohithrjnr43@gmail.com Linkedin: www.linkedin.com/in/rohith-raj-nambiar
 
  
 
