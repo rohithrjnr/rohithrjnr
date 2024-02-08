@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohithrjnr
-- 👀 I’m interested in coding using HTML, CSS and Python
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to work on projects mainly front end development. I Love to design webpages. Style them and code them.
+- 👀 I'm experienced in HTML,CSS,Javascript,React,Angular,Python,C#, SQL and .NET.
+- 🌱 I’m currently working as a Backend Developer using C# and SQL for an ERP software.
+- 💞️ I’m looking to work on projects in full stack. I Love to design webpages. Style them and code them.
 - 📫 How to reach me- email: rohithrjnr43@gmail.com Linkedin: www.linkedin.com/in/rohith-raj-nambiar
 
  
