@@ -8,7 +8,7 @@
   I am continually enhancing my expertise in **Angular, .NET, and advanced front-end frameworks** to deliver cutting-edge solutions.
 
 - **Projects**  
-  All of my projects can be found on my [GitHub Profile](https://github.com/your-username?tab=repositories).
+  All of my projects can be found on my [GitHub Profile](https://github.com/rohithrjnr?tab=repositories).
 
 - **Reach Out**  
   You can contact me via **rohithrjnr43@gmail.com**  
@@ -52,8 +52,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="your-username" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithrjnr&show_icons=true&locale=en&layout=compact" alt="rohithrjnr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithrjnr&show_icons=true&locale=en" alt="rohithrjnr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithrjnr&" alt="rohithrjnr" /></p>
