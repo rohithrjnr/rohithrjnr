@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Rohith Raj</h1>
 <h3 align="center">Building Scalable Solutions with Angular, .NET Core, and SQL</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-</p>
-
 - **About Me**  
   I am a full-stack developer with extensive experience in building modern, scalable web applications. I specialize in both front-end and back-end development, delivering high-quality solutions using a wide range of technologies.
 
